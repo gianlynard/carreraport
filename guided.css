@@ -45,7 +45,7 @@ img {
 }
 
 .hdr-bg {
-    background: url('../1-html/egypt.jpg');
+    background: url('egypt.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
